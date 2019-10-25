@@ -1,0 +1,1 @@
+react-native run-android -------------- and let's go! :D
